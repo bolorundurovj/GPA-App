@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\BolorunduroVB\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_GPA-App.2131453054.00" t="ExcludeRecursive" />
+    <e p="C:\Users\BolorunduroVB\Documents\Visual Studio 2017\Projects\GPA-App" t="IncludeFlat">
+      <e p="GPA-App" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GPA-App.csproj" t="IncludeRecursive" />
+        <e p="GPA-App_TemporaryKey.pfx" t="Include" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="MainForm.Designer.cs" t="Include" />
+        <e p="MainForm.resx" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Course.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+        </e>
+        <e p="NewRecordForm.cs" t="Include" />
+        <e p="NewRecordForm.Designer.cs" t="Include" />
+        <e p="NewRecordForm.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="GPA-App.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
